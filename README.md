@@ -1,5 +1,5 @@
 # jsCarGame
 Simple JS game.
-**https://maxiamo.github.io/jsCarGame/**
+https://sweety-vigneshg.github.io/Basic-Car-Game/
 
 Feel free to use it whatever you want :D
